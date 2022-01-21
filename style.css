@@ -1,0 +1,13 @@
+.panda-bg-info{
+    background-color:#FEEAE9;
+    
+}
+.categories img{
+    width: 100px;
+}
+.btn-danger-modi{
+    background-image:linear-gradient(to bottom, #FF589B 0%, #ff589b 100%);
+  color: white;
+  border-radius: 8px;
+    padding: 9px 25px;
+}
